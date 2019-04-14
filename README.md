@@ -1,0 +1,4 @@
+# JoosRestauration
+---
+permalink: /index.html
+---
